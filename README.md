@@ -10,7 +10,7 @@
 
 ## Overview
 
-This project provides a detailed analysis of stock prices using Python and Jupyter Notebook. It includes data processing, visualization, and basic financial analysis.
+This Project is done to predict the stock price for a stock using the data of previous few days(here 60). It uses sequence model which essentially contains LSTMs and CNN.
 
 ## Installation
 
@@ -20,7 +20,7 @@ This project provides a detailed analysis of stock prices using Python and Jupyt
     ```
 2. Navigate to the project directory:
     ```sh
-    cd 
+    cd Stock-Price-Prediction-using-Sequence-Model
     ```
 3. Install dependencies:
     ```sh
