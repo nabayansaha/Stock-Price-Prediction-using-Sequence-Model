@@ -16,11 +16,11 @@ This project provides a detailed analysis of stock prices using Python and Jupyt
 
 1. Clone the repo:
     ```sh
-    git clone https://github.com/your_username/stock_price_analysis.git
+    git clone https://github.com/nabayansaha/Stock-Price-Prediction-using-Sequence-Model.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd stock_price_analysis
+    cd 
     ```
 3. Install dependencies:
     ```sh
