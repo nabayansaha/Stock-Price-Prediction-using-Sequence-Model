@@ -52,7 +52,6 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
+Name - [Nabayan Saha](https://www.linkedin.com/in/nabayan-saha-403525261/)
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/stock_price_analysis](https://github.com/your_username/stock_price_analysis)
+Project Link: [https://github.com/nabayansaha/Stock-Price-Prediction-using-Sequence-Model](https://github.com/nabayansaha/Stock-Price-Prediction-using-Sequence-Model)
